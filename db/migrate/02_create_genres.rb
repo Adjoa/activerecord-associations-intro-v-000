@@ -3,5 +3,5 @@ class CreateGenres < ActiveRecord::Migration[5.1]
     create_table do |t|
       t.string :name
     end
-  end 
+  end
 end
